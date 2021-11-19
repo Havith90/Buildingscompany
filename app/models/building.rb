@@ -1,3 +1,3 @@
 class Building < ApplicationRecord
-    has_many :offices
+    #has_many :offices
 end
